@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://krkshitiz.github.io/greet/static/css/main.073c9b0a.css",
+    "main.js": "https://krkshitiz.github.io/greet/static/js/main.5f2cdf78.js",
+    "static/js/787.b43d7498.chunk.js": "https://krkshitiz.github.io/greet/static/js/787.b43d7498.chunk.js",
+    "index.html": "https://krkshitiz.github.io/greet/index.html",
+    "main.073c9b0a.css.map": "https://krkshitiz.github.io/greet/static/css/main.073c9b0a.css.map",
+    "main.5f2cdf78.js.map": "https://krkshitiz.github.io/greet/static/js/main.5f2cdf78.js.map",
+    "787.b43d7498.chunk.js.map": "https://krkshitiz.github.io/greet/static/js/787.b43d7498.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5f2cdf78.js"
+  ]
+}
